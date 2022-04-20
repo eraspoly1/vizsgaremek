@@ -1,0 +1,40 @@
+body {
+    background-color: white;
+
+}
+h1{
+    text-align: center;
+    text-decoration-line: overline underline;
+    text-decoration-color: #099d94;  
+}
+
+a:link {
+    color: #9decc1;
+}
+
+a:visited {
+    color: black;
+  }
+
+  a:hover {
+    color: rgb(105, 255, 230);
+  }
+
+#main {
+    color: #64cb92;
+    
+}
+
+.navbar-custom {
+    background-color: #099d94;
+}
+
+.card{
+    margin-bottom: 10px;
+}
+
+p {
+
+    text-align: justify;
+    font-family: "Lucida Console", "Courier New", monospace;
+}
